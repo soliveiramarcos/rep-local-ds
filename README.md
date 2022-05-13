@@ -1,2 +1,2 @@
 # rep-local-ds
- Repositorio Local Dada Sciency
+ Repositorio Local Data Sciency
